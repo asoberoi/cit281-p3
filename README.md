@@ -20,3 +20,6 @@
 ### What I learned
 - Javascript modules 
 - Fastify package to test as a web page.
+
+
+<img width="542" alt="Screenshot 2023-06-09 at 5 38 57 PM" src="https://github.com/asoberoi/cit281-p3/assets/134101380/9046ff91-45cc-4df8-a441-a4be349f54e8">
